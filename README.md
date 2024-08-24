@@ -18,9 +18,20 @@ Live demo : https://myapplestore.vercel.app/
 
 ## Tech Stack
 
-**Libraries:** React.js, Three.js, React Three Fiber, React Three Drei , GSAP (Greensock)
+**Libraries:** 
 
-**Frameworks:** Vite, Tailwind CSS
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Three Drei](https://img.shields.io/badge/React%20Three%20Drei-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+
+
+**Frameworks:** 
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 ## Features
 
 👉 Beautiful, Subtle, and Smooth Animations with GSAP: Elevate the user experience with fluid and captivating animations, seamlessly powered by GSAP for a polished and professional feel.
