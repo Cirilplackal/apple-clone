@@ -1,5 +1,6 @@
 
-# Apple iPhone Landing Page Redesign
+<h1><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Apple_logo_white.svg/1200px-Apple_logo_white.svg.png" alt="Apple Logo" width="40" /> Apple iPhone Landing Page Redesign </h1>
+
 
 This project is a React.js and TailwindCSS-based clone of Apple's iPhone 15 Pro website, showcasing the seamless integration of GSAP (Greensock Animations) and Three.js. The website effectively displays the iPhone 15 Pro models in various colors and shapes, delivering an engaging and interactive user experience.
 
@@ -34,15 +35,23 @@ Live demo : https://myapplestore.vercel.app/
 
 ## Features
 
-👉 Beautiful, Subtle, and Smooth Animations with GSAP: Elevate the user experience with fluid and captivating animations, seamlessly powered by GSAP for a polished and professional feel.
+### **Key Features**
 
-👉 Dynamic 3D Model Rendering: Experience the iPhone 15 Pro in its full glory with dynamic 3D rendering, allowing users to explore various colors, sizes, and angles effortlessly.
+🔹 **Beautiful, Subtle, and Smooth Animations with GSAP**  
+Elevate the user experience with fluid, captivating animations powered by GSAP. These animations contribute to a polished and professional feel, ensuring that every interaction is seamless.
 
-👉 Interactive Custom Video Carousel: Captivate users with a bespoke video carousel, designed using GSAP, offering a personalized and engaging browsing experience.
+🔹 **Dynamic 3D Model Rendering**  
+Explore the iPhone 15 Pro in all its glory with dynamic 3D rendering. Users can effortlessly view the model from various angles, and explore different colors and sizes, offering a truly immersive experience.
 
-👉 Fully Responsive Design: Enjoy a consistent and optimized viewing experience across all devices, thanks to a fully responsive design that adapts flawlessly to any screen size.
+🔹 **Interactive Custom Video Carousel**  
+Engage your audience with a custom video carousel crafted using GSAP. This unique feature offers a personalized and interactive browsing experience that keeps users captivated.
 
-👉 Clean Code Architecture and Reusability: Benefit from a well-structured codebase, promoting scalability and reusability, ensuring efficient development and easy maintenance.
+🔹 **Fully Responsive Design**  
+Guarantee a consistent and optimized viewing experience across all devices. The design adapts flawlessly to different screen sizes, ensuring that the site looks great whether on mobile, tablet, or desktop.
+
+🔹 **Clean Code Architecture and Reusability**  
+Take advantage of a well-structured codebase that promotes scalability and reusability. This approach ensures efficient development processes and simplifies maintenance for future updates.
+
 
 
 
